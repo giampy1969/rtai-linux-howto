@@ -3,7 +3,7 @@ RTAI-Linux Target : Step by Step instructions for Beginners
 
 NOTE: This is very old and I'm sure it won't work with versions or RTAI or Linux older than, say, 2007. Sharing just for informational purpose and in case somebody still need to do this with Linux 2.x or so (not the worst idea for real time systems anyway).
 
---- OLD README -------------------------------------------------------------------------------------------------------
+--- OLD README ---------------------------------------------------------------------------------
 This file contains step by step instructions for beginners on how to install the RTAI Linux real time extension, and how to use it to run code generated from simulink schemes by real time workshop.
 
 The availability of MATLAB&reg;, Simulink&reg;, and Real Time Workshop&reg; either on a Windows&reg; or Linux machine is assumed.
