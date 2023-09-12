@@ -3,6 +3,8 @@ RTAI-Linux Target : Step by Step instructions for Beginners
 
 NOTE: This is very old and I'm sure it won't work with versions or RTAI or Linux older than, say, 2007. Sharing just for informational purpose and in case somebody still need to do this with Linux 2.x or so (not the worst idea for real time systems anyway).
 
+[![View rtai-linux-howto on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/10742-rtai-linux-howto)
+
 --- OLD README ---------------------------------------------------------------------------------------------------
 
 
